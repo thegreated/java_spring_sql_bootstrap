@@ -1,0 +1,14 @@
+INSERT  INTO todo (ID, USERNAME, DESCRIPTION, TARGET_DATE,DONE)
+VALUES (10001, 'admin', 'Get Aws Certification',CURRENT_DATE(), false);
+
+INSERT  INTO todo (ID, USERNAME, DESCRIPTION, TARGET_DATE,DONE)
+VALUES (10002, 'admin', 'Get Azure Certification',CURRENT_DATE(), false);
+
+INSERT  INTO todo (ID, USERNAME, DESCRIPTION, TARGET_DATE,DONE)
+VALUES (10003, 'admin', 'Get GCP Certification',CURRENT_DATE(), false);
+
+INSERT  INTO todo (ID, USERNAME, DESCRIPTION, TARGET_DATE,DONE)
+VALUES (10004, 'admin', 'Full stack Development java',CURRENT_DATE(), false);
+
+INSERT  INTO todo (ID, USERNAME, DESCRIPTION, TARGET_DATE,DONE)
+VALUES (10005, 'admin', 'React Development',CURRENT_DATE(), false);
